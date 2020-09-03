@@ -6,6 +6,10 @@ There are several problems with this stack. Review the requirements below and fo
 
 > Don't forget to remove any cost incurring AWS resources after your interview!
 
+## How to ask a question
+
+If you have any questions about this challenge, create an issue in the GitHub repostitory.
+
 ## Requirements
 
 1. Amazon Linux 2 EC2 instance
@@ -26,10 +30,10 @@ If you are using federated identity, you may also need this:
 - `AWS_SESSION_TOKEN`
 
 ```bash
-bin/bin/010_deploy_resources.sh
+bin/010_deploy_resources.sh
 ```
 
-A working solution will result in a published website:
+A working solution will result in two published websites (one in Sydney region, and one in Mumnbai region). This is a screenshot of a successfull Sydney region deployment:
 
 ![docs/images/sceenshot.png](docs/images/sceenshot.png)
 

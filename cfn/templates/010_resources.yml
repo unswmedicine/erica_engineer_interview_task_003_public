@@ -2,9 +2,7 @@
 AWSTemplateFormatVersion: "2010-09-09"
 Description: | 
   
-  Demo VPC endpoint split DNS effect
-
-  (or why you should use AmazonDNS resolvers)
+ERICA engineer interview task
 
 Resources:
 
