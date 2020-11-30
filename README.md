@@ -1,6 +1,6 @@
 # Level 100 AWS EC2 test
 
-The unlikely remit is to bring up a web site (very simple, just basic nginx) as a publically accessible web site, with an attached data volume for later use.
+The unlikely remit is to bring up a web site (very simple) as a publically accessible web site, with an attached data volume for later use.
 
 There are several problems with this stack. Review the requirements below and fork and make a PR for your solution.
 
@@ -15,7 +15,7 @@ If you have any questions about this challenge, create an issue in the GitHub re
 1. Amazon Linux 2 EC2 instance
 1. Publicly accessible Nginx website
 1. Mounted data volume for later use
-1. Deploy twice, to Sydney region and Mumbai region
+1. Solution is deployable to any AWS region
 
 ## Deployment instructions:
 
